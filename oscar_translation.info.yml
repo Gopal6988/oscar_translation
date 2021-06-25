@@ -1,0 +1,10 @@
+name: Translation
+type: module
+description: This module is used to handle the custom translation.
+package: Oscar
+version: '8.x-1.0'
+core: '8.x'
+project: 'oscar_translation'
+
+dependencies:
+  - base

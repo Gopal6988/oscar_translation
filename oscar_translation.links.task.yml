@@ -1,0 +1,17 @@
+entity.oscar_translation.canonical:
+  route_name: entity.oscar_translation.canonical
+  base_route: entity.oscar_translation.canonical
+  title: 'View'
+entity.oscar_translation.edit_form:
+  route_name: entity.oscar_translation.edit_form
+  base_route: entity.oscar_translation.canonical
+  title: Edit
+entity.oscar_translation.delete_form:
+  route_name: entity.oscar_translation.delete_form
+  base_route: entity.oscar_translation.canonical
+  title: Delete
+  weight: 10
+entity.translation_type.edit_form:
+  title: 'Edit'
+  route_name: entity.translation_type.edit_form
+  base_route: entity.translation_type.edit_form

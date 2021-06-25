@@ -1,0 +1,4 @@
+services:
+  oscar_translation.translation:
+    class: Drupal\oscar_translation\Service\TranslationService
+    arguments: ['@database']

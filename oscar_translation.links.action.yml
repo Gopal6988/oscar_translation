@@ -1,0 +1,6 @@
+entity.translation_type.add_form:
+  route_name: entity.translation_type.add_form
+  title: 'Add Translation Type'
+  appears_on:
+    - entity.translation_type.collection
+    - entity.translation_type.canonical

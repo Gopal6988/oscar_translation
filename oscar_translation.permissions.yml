@@ -1,0 +1,14 @@
+view translation entity:
+  title: 'View Translation entity'
+add translation entity:
+  title: 'Add Translation entity'
+edit translation entity:
+  title: 'Edit Translation Entity'
+delete translation entity:
+  title: 'Delete Translation entity'
+administer translation entity:
+  title: 'Administer Translation entity'
+  restrict access: TRUE
+administer translation types:
+  title: 'Administer Translation types'
+  restrict access: TRUE

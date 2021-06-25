@@ -1,0 +1,10 @@
+entity.oscar_translation.collection:
+  title: 'Translation Listing'
+  route_name: entity.oscar_translation.collection
+  description: 'List Contacts'
+  weight: 10
+oscar_translation.admin.structure.settings:
+  title: Translation Settings
+  description: 'Configure Translation entity'
+  route_name:  entity.translation_type.collection
+  parent: system.admin_structure
